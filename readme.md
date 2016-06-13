@@ -8,3 +8,7 @@ A list of recommended additions to a javascript project for a pleasant developme
 - [ ] Integration tests: Travis CI
 - [ ] Transpiler: Babel
 - [ ] Styles Linter: ESLint
+
+
+### Todos:
+- [ ] Write a project linter that will check if projects are up to standard.
